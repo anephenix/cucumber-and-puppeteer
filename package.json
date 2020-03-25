@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/anephenix/cucumber-and-puppeteer#readme",
   "dependencies": {
-    "cucumber": "^5.0.2",
-    "puppeteer": "^1.20.0"
+    "cucumber": "^5.1.0",
+    "puppeteer": "^2.1.1"
   }
 }
